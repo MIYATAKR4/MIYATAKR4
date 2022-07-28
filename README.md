@@ -1,4 +1,4 @@
-## Bem-vindo(a)! 🔭✨
+## Ｗｅｌｃｏｍｅ ｔｏ  ｍｙ  ｐｒｏｆｉｌｅ！ 🔭✨
 
  <div>
    <a href="https://github.com/MIYATAKR4">
@@ -13,6 +13,10 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="PYTHON" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
  
+</div>
+
+<div>
+  <img align="right" height="50" src="https://i.pinimg.com/564x/8d/00/09/8d00093c8c3d26976ed610168a7b97fd.jpg"> 
 </div>
 
  <br>
