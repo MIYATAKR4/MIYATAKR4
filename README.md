@@ -6,9 +6,8 @@
    <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIYATAKR4&layout=compact&theme=nightowl"/>
 </div>
  
- <div>
-  <img align="center" height="100" src="https://i.pinimg.com/564x/8d/00/09/8d00093c8c3d26976ed610168a7b97fd.jpg"> 
-</div>
+<div style="display: inline_block"><br>
+     <img align="center" width="100" src="https://pm1.narvii.com/6759/bcd6c5c19f07cd76b023bd0716f3e4f88887c0f9v2_128.jpg">
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -16,6 +15,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="PYTHON" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
  
+</div>
 </div>
 
 
