@@ -18,9 +18,7 @@
 </div>
 </div>
 
-<div>
-<img align="right" height="200" src="https://i.pinimg.com/originals/a9/a0/a8/a9a0a862e49664b46d7be3253e893714.gif"/>
- </div> 
+
 
 
  <br>
