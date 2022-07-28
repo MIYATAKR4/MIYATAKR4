@@ -16,6 +16,8 @@
 </div>
 
  <br>
+ ![Snake animation](https://github.com/MIYATAKR4/MIYATAKR4/blob/output/github-contribution-grid-snake.svg)
+
  
 <div> 
   
