@@ -18,15 +18,16 @@
 </div>
 </div>
 
+<img align="right" height="200" src="https://i.pinimg.com/originals/a9/a0/a8/a9a0a862e49664b46d7be3253e893714.gif"/>
+  
+
 
  <br>
  
-<div style="display: inline_block"> 
+<div> 
   
   <a href = "mailto:catarina.cmd@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="linkedin.com/in/catarina-diniz-ab4766224/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <img align="right" height="200" src="https://i.pinimg.com/originals/a9/a0/a8/a9a0a862e49664b46d7be3253e893714.gif"/>
-  
 
 </div>
 
