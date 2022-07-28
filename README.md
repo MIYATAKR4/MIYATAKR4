@@ -6,8 +6,6 @@
    <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIYATAKR4&layout=compact&theme=nightowl"/>
 </div>
  
-
-
 <div style="display: inline_block"><br>
    <img align="center" width="130" src="https://i.pinimg.com/564x/98/17/0d/98170d19dcc14f73e8a3095ccab7b78b.jpg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -16,17 +14,11 @@
   <img align="center" alt="PYTHON" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
  
 </div>
-</div>
 
-
-
-
- <br>
+<br>
  
 <div> 
-  
-  <a href = "mailto:catarina.cmd@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="linkedin.com/in/catarina-diniz-ab4766224/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="linkedin.com/in/catarina-diniz-ab4766224/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div>
 
