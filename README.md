@@ -2,7 +2,7 @@
 
  <div>
    <a href="https://github.com/MIYATAKR4">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIYATAKR4&layout=compact&theme=nightowl&hide=jupyter notebook"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIYATAKR4&layout=compact&theme=nightowl"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=MIYATAKR4&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
  
 <div style="display: inline_block"><br>
