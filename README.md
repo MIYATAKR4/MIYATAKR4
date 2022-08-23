@@ -2,8 +2,8 @@
 
  <div>
    <a href="https://github.com/MIYATAKR4">
-   ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=MIYATAKR4&show_icons=true&layout=compact&theme=nightowl)
-   [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=MIYATAKR4&layout=compact&theme=nightowl)](https://github.com/MIYATAKR4/github-readme-stats)
+    <img height="120em" src="https://github-readme-stats.vercel.app/api?username=MIYATAKR4&show_icons=true&layout=compact&theme=nightowl"
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIYATAKR4&layout=compact&theme=nightowl"
 </div>
  
 <div style="display: inline_block"><br>
