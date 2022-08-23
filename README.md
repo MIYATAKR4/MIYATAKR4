@@ -2,8 +2,7 @@
 
  <div>
    <a href="https://github.com/MIYATAKR4">
-  <img height="120em" src"https://github-readme-stats.vercel.app/api/top-langs/?username=MIYATAKR4)](https://github.com/MIYATAKR4/github-readme-stats)
-"/>
+  <img height="120em" src"https://github-readme-stats.vercel.app/api/top-langs/?username=MIYATAKR4&theme=nightowl"/>
 
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=MIYATAKR4&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
  
