@@ -2,7 +2,8 @@
 
  <div>
    <a href="https://github.com/MIYATAKR4">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIYATAKR4&hide=Jupyter Notebook&layout=compact&theme=nightowl"/>
+  <img height="120em" [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+/>
 
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=MIYATAKR4&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
  
