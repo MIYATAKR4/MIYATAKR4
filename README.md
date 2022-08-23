@@ -2,9 +2,8 @@
 
  <div>
    <a href="https://github.com/MIYATAKR4">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api?username=MIYATAKR4&show_icons=true&layout=compact&theme=nightowl"
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIYATAKR4&layout=compact&theme=nightowl"
-</div>
+        <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIYATAKR4&layout=compact&theme=nightowl"
+
  
 <div style="display: inline_block"><br>
    <img align="center" width="130" src="https://i.pinimg.com/564x/98/17/0d/98170d19dcc14f73e8a3095ccab7b78b.jpg">
