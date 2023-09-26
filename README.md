@@ -22,4 +22,4 @@
 
 </div>
 
-![Snake animation](https://github.com/MIYATAKR4/MIYATAKR4/blob/output/github-contribution-grid-snake.svg)
+![Snake Game](https://github.com/MIYATAKR4/MIYATAKR4/actions/workflows/blank.yml/badge.svg)
