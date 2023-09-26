@@ -22,4 +22,4 @@
 
 </div>
 
-![Snake Game](https://github.com/MIYATAKR4/MIYATAKR4/actions/workflows/blank.yml/badge.svg)
+![Snake Game](https://github.com/MIYATAKR4/MIYATAKR4/blob/output/github-contribuition-grid-snake.svg)
