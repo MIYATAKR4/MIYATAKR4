@@ -16,10 +16,4 @@
 </div>
 
 <br>
- 
-
-
-
 </div>
-
-![snake gif](https://github.com/MIYATAKR4/MIYATAKR4/blob/output/github-contribution-grid-snake.svg)
